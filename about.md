@@ -9,7 +9,7 @@ title: 关于我
 
 <h2> 我的博客 </h2>  
 
-博客是leopardpan是复制
+博客是复制leopardpan（潘柏信）的项目
 
 如果你想搭建一个跟我一样的博客，可以看我的 
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
